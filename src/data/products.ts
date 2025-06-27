@@ -31,9 +31,9 @@ export const products: Product[] = [
     name: '4K Ultra HD Smart TV 55"',
     price: 649.99,
     originalPrice: 799.99,
-    image: 'https://images.pexels.com/photos/1201996/pexels-photo-1201996.jpeg?auto=compress&cs=tinysrgb&w=500',
+    image: 'https://5.imimg.com/data5/SELLER/Default/2023/10/353175195/HN/EP/LY/32671122/samsung-55-inches-crystal-ismart-4k-ultra-hd-smart-led-tv.jpg',
     images: [
-      'https://images.pexels.com/photos/1201996/pexels-photo-1201996.jpeg?auto=compress&cs=tinysrgb&w=800'
+      'https://5.imimg.com/data5/SELLER/Default/2023/10/353175195/HN/EP/LY/32671122/samsung-55-inches-crystal-ismart-4k-ultra-hd-smart-led-tv.jpg'
     ],
     category: 'Electronics',
     description: 'Immerse yourself in stunning 4K resolution with HDR support and smart TV capabilities.',
@@ -54,9 +54,9 @@ export const products: Product[] = [
     name: 'Wireless Charging Pad',
     price: 39.99,
     originalPrice: 59.99,
-    image: 'https://images.pexels.com/photos/4526406/pexels-photo-4526406.jpeg?auto=compress&cs=tinysrgb&w=500',
+    image: 'https://m.media-amazon.com/images/I/61oIAKY9s1L.jpg',
     images: [
-      'https://images.pexels.com/photos/4526406/pexels-photo-4526406.jpeg?auto=compress&cs=tinysrgb&w=800'
+      'https://m.media-amazon.com/images/I/61oIAKY9s1L.jpg'
     ],
     category: 'Electronics',
     description: 'Fast wireless charging pad compatible with all Qi-enabled devices. Sleek design with LED indicator.',
@@ -77,9 +77,9 @@ export const products: Product[] = [
     name: 'Bluetooth Speaker Portable',
     price: 89.99,
     originalPrice: 119.99,
-    image: 'https://images.pexels.com/photos/1264210/pexels-photo-1264210.jpeg?auto=compress&cs=tinysrgb&w=500',
+    image: 'https://m.media-amazon.com/images/I/71r5EgruzPL._UF1000,1000_QL80_.jpg',
     images: [
-      'https://images.pexels.com/photos/1264210/pexels-photo-1264210.jpeg?auto=compress&cs=tinysrgb&w=800'
+      'https://m.media-amazon.com/images/I/71r5EgruzPL._UF1000,1000_QL80_.jpg'
     ],
     category: 'Electronics',
     description: 'Portable Bluetooth speaker with 360-degree sound, waterproof design, and 20-hour battery life.',
@@ -192,9 +192,9 @@ export const products: Product[] = [
     name: 'Smart Watch Series 8',
     price: 399.99,
     originalPrice: 449.99,
-    image: 'https://images.pexels.com/photos/393047/pexels-photo-393047.jpeg?auto=compress&cs=tinysrgb&w=500',
+    image: 'https://mobilezon.in/wp-content/uploads/2023/07/apple-watch-ultra-49mm-smart-watch-first-copy-black.jpg',
     images: [
-      'https://images.pexels.com/photos/393047/pexels-photo-393047.jpeg?auto=compress&cs=tinysrgb&w=800'
+      'https://mobilezon.in/wp-content/uploads/2023/07/apple-watch-ultra-49mm-smart-watch-first-copy-black.jpg'
     ],
     category: 'Electronics',
     description: 'Advanced smartwatch with health monitoring, GPS, and cellular connectivity.',
@@ -214,9 +214,9 @@ export const products: Product[] = [
     id: '10',
     name: 'Gaming Console Pro',
     price: 499.99,
-    image: 'https://images.pexels.com/photos/442576/pexels-photo-442576.jpeg?auto=compress&cs=tinysrgb&w=500',
+    image: 'https://m.media-amazon.com/images/I/71+EseRj6LL.jpg',
     images: [
-      'https://images.pexels.com/photos/442576/pexels-photo-442576.jpeg?auto=compress&cs=tinysrgb&w=800'
+      'https://m.media-amazon.com/images/I/71+EseRj6LL.jpg'
     ],
     category: 'Electronics',
     description: 'Next-generation gaming console with 4K gaming and ultra-fast loading times.',
@@ -237,9 +237,9 @@ export const products: Product[] = [
     name: 'Wireless Earbuds Pro',
     price: 179.99,
     originalPrice: 229.99,
-    image: 'https://images.pexels.com/photos/8534088/pexels-photo-8534088.jpeg?auto=compress&cs=tinysrgb&w=500',
+    image: 'https://www.boat-lifestyle.com/cdn/shop/files/Artboard8.png?v=1704949292',
     images: [
-      'https://images.pexels.com/photos/8534088/pexels-photo-8534088.jpeg?auto=compress&cs=tinysrgb&w=800'
+      'https://www.boat-lifestyle.com/cdn/shop/files/Artboard8.png?v=1704949292'
     ],
     category: 'Electronics',
     description: 'Premium wireless earbuds with active noise cancellation and spatial audio.',
@@ -260,9 +260,9 @@ export const products: Product[] = [
     name: 'Smart Home Hub',
     price: 129.99,
     originalPrice: 159.99,
-    image: 'https://images.pexels.com/photos/4219654/pexels-photo-4219654.jpeg?auto=compress&cs=tinysrgb&w=500',
+    image: 'https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25289933/247023_Echo_Hub_JTuohy_0018.jpg?quality=90&strip=all&crop=0,0,100,100',
     images: [
-      'https://images.pexels.com/photos/4219654/pexels-photo-4219654.jpeg?auto=compress&cs=tinysrgb&w=800'
+      'https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25289933/247023_Echo_Hub_JTuohy_0018.jpg?quality=90&strip=all&crop=0,0,100,100'
     ],
     category: 'Electronics',
     description: 'Central hub for all your smart home devices with voice control and automation.',
@@ -283,9 +283,9 @@ export const products: Product[] = [
     name: 'Drone with 4K Camera',
     price: 799.99,
     originalPrice: 999.99,
-    image: 'https://images.pexels.com/photos/442587/pexels-photo-442587.jpeg?auto=compress&cs=tinysrgb&w=500',
+    image: 'https://everse.in/storage/a2d6a1e09e4e7b8a28a76b67f39e7972/dji-mini-4k-01.webp',
     images: [
-      'https://images.pexels.com/photos/442587/pexels-photo-442587.jpeg?auto=compress&cs=tinysrgb&w=800'
+      'https://everse.in/storage/a2d6a1e09e4e7b8a28a76b67f39e7972/dji-mini-4k-01.webp'
     ],
     category: 'Electronics',
     description: 'Professional drone with 4K camera, obstacle avoidance, and intelligent flight modes.',
@@ -306,9 +306,9 @@ export const products: Product[] = [
     name: 'VR Headset Pro',
     price: 599.99,
     originalPrice: 699.99,
-    image: 'https://images.pexels.com/photos/8728382/pexels-photo-8728382.jpeg?auto=compress&cs=tinysrgb&w=500',
+    image: 'https://images-cdn.ubuy.co.in/651cead35a85f9699d1af064-vrg-pro-x7-3d-vr-headset-smart-virtual.jpg',
     images: [
-      'https://images.pexels.com/photos/8728382/pexels-photo-8728382.jpeg?auto=compress&cs=tinysrgb&w=800'
+      'https://images-cdn.ubuy.co.in/651cead35a85f9699d1af064-vrg-pro-x7-3d-vr-headset-smart-virtual.jpg'
     ],
     category: 'Electronics',
     description: 'Immersive VR headset with high-resolution displays and precise tracking.',
